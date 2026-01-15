@@ -2,16 +2,7 @@
 
 A beautifully designed, high-performance e-commerce platform built with Next.js 14, TypeScript, Prisma, NeonDB, Vercel Blob Storage, Clerk authentication, Stripe payments, and shadcn/ui. Next Store offers a seamless online shopping experience with fast checkout, secure payments, and a curated selection of products.
 
-- **Live-Demo:** [https://store-next-beta.vercel.app/](https://store-next-beta.vercel.app/)
-
-![Screenshot 2025-06-14 at 14 56 42](https://github.com/user-attachments/assets/4b133e1c-73ab-42c6-a31a-1370738e1f65)
-![Screenshot 2025-06-14 at 14 57 07](https://github.com/user-attachments/assets/d3f7ead5-1833-432d-bbc0-c26637668c38)
-![Screenshot 2025-06-14 at 14 58 00](https://github.com/user-attachments/assets/0c685a53-9237-4976-b459-7c85dde78501)
-![Screenshot 2025-06-14 at 14 59 55](https://github.com/user-attachments/assets/ddd94197-4947-43ff-936a-6610845d18f7)
-![Screenshot 2025-06-14 at 15 00 18](https://github.com/user-attachments/assets/e663e154-23b0-401b-8b8c-debe6071ae89)
-![Screenshot 2025-06-14 at 15 00 40](https://github.com/user-attachments/assets/cbea298a-9ae3-4648-a0ce-328878a24279)
-![Screenshot 2025-06-14 at 15 00 51](https://github.com/user-attachments/assets/4746c5d4-cd07-4216-8a0c-d921b7ec1f0f)
-![Screenshot 2025-06-14 at 15 01 26](https://github.com/user-attachments/assets/cdecde19-de05-43a2-a280-f174b8deffc6)
+- **Live-Demo:** Not Available at the moment
 
 ---
 
